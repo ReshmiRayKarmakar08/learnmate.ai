@@ -1,0 +1,101 @@
+CourseID,Title,Domain,Level,Platform,Duration(hrs),Rating,Enrollments,Price,Prerequisites,Certification,Language,LastUpdated
+101,HTML & CSS Fundamentals,Frontend Development,Beginner,Udemy,15,5.0,44251,0,None,False,English,2024-12-28 14:13:11.696528
+102,Advanced CSS & Sass,Frontend Development,Intermediate,edX,20,4.0,47855,0,Frontend Development Basics,False,English,2024-11-04 14:13:11.696549
+103,JavaScript Essentials,Frontend Development,Beginner,Pluralsight,25,4.8,20450,199,None,False,English,2025-01-16 14:13:11.696557
+104,Advanced JavaScript,Frontend Development,Intermediate,FreeCodeCamp,30,4.9,23932,0,Frontend Development Basics,False,English,2024-11-05 14:13:11.696563
+105,React.js Complete Guide,Frontend Development,Intermediate,Pluralsight,40,4.1,2485,199,Frontend Development Basics,True,English,2025-07-26 14:13:11.696570
+106,Vue.js Mastery,Frontend Development,Intermediate,Udacity,35,3.7,17298,0,Frontend Development Basics,False,English,2025-02-04 14:13:11.696575
+107,Angular for Beginners,Frontend Development,Beginner,Pluralsight,30,4.1,13305,0,None,False,English,2024-10-26 14:13:11.696581
+108,Frontend Performance,Frontend Development,Advanced,Pluralsight,25,4.3,12692,49,Frontend Development Basics,False,English,2024-08-20 14:13:11.696594
+109,Responsive Web Design,Frontend Development,Beginner,Khan Academy,18,4.9,11380,0,None,True,English,2025-07-06 14:13:11.696602
+110,TypeScript Complete,Frontend Development,Intermediate,Skillshare,28,4.0,38525,0,Frontend Development Basics,False,English,2025-03-07 14:13:11.696609
+111,Node.js Fundamentals,Backend Development,Beginner,edX,22,4.7,34155,99,None,False,English,2025-04-05 14:13:11.696615
+112,Express.js Complete,Backend Development,Intermediate,Skillshare,25,4.0,15623,0,Backend Development Basics,False,English,2025-04-26 14:13:11.696621
+113,Python Django,Backend Development,Intermediate,Udemy,35,3.8,18158,29,Backend Development Basics,True,English,2025-01-24 14:13:11.696626
+114,REST API Design,Backend Development,Intermediate,FreeCodeCamp,20,3.8,8291,29,Backend Development Basics,True,English,2025-03-24 14:13:11.696631
+115,Database Design,Backend Development,Beginner,Udemy,18,3.6,47666,49,None,True,English,2025-08-01 14:13:11.696636
+116,MongoDB Mastery,Backend Development,Intermediate,Pluralsight,24,4.5,36671,99,Backend Development Basics,True,English,2024-10-02 14:13:11.696641
+117,GraphQL Complete,Backend Development,Advanced,Udemy,30,5.0,42660,0,Backend Development Basics,True,English,2024-11-08 14:13:11.696646
+118,Microservices Architecture,Backend Development,Advanced,edX,40,4.5,29982,199,Backend Development Basics,False,English,2025-02-20 14:13:11.696651
+119,API Security,Backend Development,Advanced,FreeCodeCamp,22,4.0,3024,199,Backend Development Basics,False,English,2025-07-17 14:13:11.696657
+120,Server Administration,Backend Development,Intermediate,Udemy,28,4.2,5566,0,Backend Development Basics,False,English,2024-12-08 14:13:11.696662
+121,Ethical Hacking Basics,Cybersecurity,Beginner,Udacity,20,4.7,44254,199,None,True,English,2024-10-08 14:13:11.696667
+122,Network Security,Cybersecurity,Intermediate,edX,30,3.5,47430,29,Cybersecurity Basics,True,English,2025-04-20 14:13:11.696672
+123,Penetration Testing,Cybersecurity,Advanced,FreeCodeCamp,45,4.6,37711,0,Cybersecurity Basics,True,English,2024-08-04 14:13:11.696677
+124,Cybersecurity Fundamentals,Cybersecurity,Beginner,Coursera,15,4.7,27091,0,None,False,English,2024-11-26 14:13:11.696681
+125,Digital Forensics,Cybersecurity,Advanced,Udemy,35,3.8,31263,0,Cybersecurity Basics,True,English,2025-02-12 14:13:11.696686
+126,Security Analysis,Cybersecurity,Intermediate,Udacity,25,4.9,9655,29,Cybersecurity Basics,True,English,2025-01-01 14:13:11.696691
+127,Incident Response,Cybersecurity,Advanced,LinkedIn Learning,28,3.6,25465,0,Cybersecurity Basics,True,English,2025-07-24 14:13:11.696695
+128,Malware Analysis,Cybersecurity,Advanced,Udemy,40,4.2,19079,49,Cybersecurity Basics,True,English,2025-02-15 14:13:11.696700
+129,Social Engineering,Cybersecurity,Intermediate,FreeCodeCamp,18,3.5,46487,0,Cybersecurity Basics,True,English,2025-04-17 14:13:11.696704
+130,Security Compliance,Cybersecurity,Intermediate,LinkedIn Learning,22,3.9,30018,0,Cybersecurity Basics,True,English,2024-10-14 14:13:11.696709
+131,Design Thinking,UI/UX Design,Beginner,Coursera,12,4.8,27413,49,None,False,English,2024-08-08 14:13:11.696714
+132,Figma Masterclass,UI/UX Design,Intermediate,Udacity,18,4.8,36562,99,UI/UX Design Basics,False,English,2025-07-17 14:13:11.696719
+133,User Research Methods,UI/UX Design,Intermediate,LinkedIn Learning,20,3.6,47769,0,UI/UX Design Basics,False,English,2024-12-18 14:13:11.696724
+134,Prototyping Essentials,UI/UX Design,Beginner,Pluralsight,15,4.7,27687,29,None,True,English,2025-05-01 14:13:11.696729
+135,Adobe XD Complete,UI/UX Design,Intermediate,Pluralsight,22,4.9,6040,49,UI/UX Design Basics,True,English,2025-03-12 14:13:11.696733
+136,UX Psychology,UI/UX Design,Advanced,Khan Academy,25,4.3,17550,0,UI/UX Design Basics,True,English,2024-10-05 14:13:11.696738
+137,Design Systems,UI/UX Design,Advanced,edX,30,4.2,30241,0,UI/UX Design Basics,False,English,2025-07-28 14:13:11.696742
+138,Mobile UI Design,UI/UX Design,Intermediate,FreeCodeCamp,24,4.2,16036,0,UI/UX Design Basics,True,English,2025-03-24 14:13:11.696747
+139,Accessibility Design,UI/UX Design,Advanced,Pluralsight,20,4.6,16185,29,UI/UX Design Basics,True,English,2025-05-20 14:13:11.696751
+140,Visual Design Principles,UI/UX Design,Beginner,Pluralsight,16,4.6,6788,0,None,True,English,2025-01-21 14:13:11.696756
+141,Python for Data Science,Data Science,Beginner,Pluralsight,30,4.5,19730,0,None,True,English,2024-10-11 14:13:11.696761
+142,Statistics Fundamentals,Data Science,Beginner,Coursera,20,4.3,35112,49,None,False,English,2024-10-28 14:13:11.696766
+143,Pandas & NumPy,Data Science,Intermediate,Codecademy,25,3.5,36488,0,Data Science Basics,False,English,2025-02-05 14:13:11.696770
+144,Data Visualization,Data Science,Intermediate,Pluralsight,22,4.1,7395,0,Data Science Basics,False,English,2025-03-15 14:13:11.696774
+145,Machine Learning Basics,Data Science,Intermediate,Udacity,40,4.2,33306,49,Data Science Basics,True,English,2025-02-21 14:13:11.696779
+146,Deep Learning,Data Science,Advanced,Codecademy,50,4.6,15169,199,Data Science Basics,False,English,2024-09-19 14:13:11.696784
+147,SQL for Data Analysis,Data Science,Beginner,Skillshare,18,4.9,36457,29,None,True,English,2025-03-21 14:13:11.696788
+148,Big Data Analytics,Data Science,Advanced,Khan Academy,45,4.2,27563,49,Data Science Basics,True,English,2024-11-15 14:13:11.696792
+149,Time Series Analysis,Data Science,Advanced,Udacity,35,4.5,24243,29,Data Science Basics,True,English,2025-07-23 14:13:11.696797
+150,Business Intelligence,Data Science,Intermediate,Udemy,28,4.8,39900,0,Data Science Basics,True,English,2025-07-03 14:13:11.696802
+151,Android Development,Mobile Development,Beginner,Udacity,35,3.6,49646,199,None,False,English,2024-12-18 14:13:11.696807
+152,iOS Swift Programming,Mobile Development,Beginner,edX,30,4.9,36286,199,None,False,English,2024-11-18 14:13:11.696812
+153,React Native,Mobile Development,Intermediate,Udemy,40,4.5,43695,0,Mobile Development Basics,True,English,2024-11-21 14:13:11.696817
+154,Flutter Complete,Mobile Development,Intermediate,LinkedIn Learning,38,4.4,3433,49,Mobile Development Basics,True,English,2024-12-06 14:13:11.696822
+155,Mobile UI/UX,Mobile Development,Intermediate,Coursera,20,4.2,13348,99,Mobile Development Basics,False,English,2024-08-09 14:13:11.696827
+156,App Store Optimization,Mobile Development,Advanced,edX,15,4.5,7212,99,Mobile Development Basics,True,English,2025-05-06 14:13:11.696832
+157,Mobile App Testing,Mobile Development,Intermediate,FreeCodeCamp,22,4.8,49772,0,Mobile Development Basics,True,English,2025-02-15 14:13:11.696836
+158,Mobile Security,Mobile Development,Advanced,Udacity,25,4.2,27828,0,Mobile Development Basics,True,English,2024-12-22 14:13:11.696840
+159,Cross-Platform Development,Mobile Development,Advanced,Codecademy,42,4.2,27866,29,Mobile Development Basics,True,English,2025-05-11 14:13:11.696845
+160,Mobile App Deployment,Mobile Development,Intermediate,Udacity,18,4.4,23724,49,Mobile Development Basics,False,English,2024-12-29 14:13:11.696850
+161,Docker Fundamentals,DevOps,Beginner,LinkedIn Learning,20,3.6,18591,0,None,False,English,2025-04-14 14:13:11.696855
+162,Kubernetes Complete,DevOps,Intermediate,Coursera,35,3.7,13062,0,DevOps Basics,True,English,2025-03-08 14:13:11.696859
+163,CI/CD Pipelines,DevOps,Intermediate,Coursera,28,3.9,24595,0,DevOps Basics,True,English,2025-03-13 14:13:11.696863
+164,AWS DevOps,DevOps,Advanced,edX,40,4.2,30798,199,DevOps Basics,True,English,2025-02-16 14:13:11.696868
+165,Infrastructure as Code,DevOps,Advanced,Khan Academy,30,3.5,15128,0,DevOps Basics,True,English,2024-08-17 14:13:11.696872
+166,Monitoring & Logging,DevOps,Intermediate,LinkedIn Learning,22,4.0,40867,49,DevOps Basics,True,English,2024-10-17 14:13:11.696878
+167,DevOps Security,DevOps,Advanced,Udemy,25,3.8,11480,49,DevOps Basics,False,English,2024-08-08 14:13:11.696882
+168,Git Version Control,DevOps,Beginner,Udemy,12,3.8,1487,99,None,False,English,2024-10-29 14:13:11.696887
+169,Jenkins Mastery,DevOps,Intermediate,Khan Academy,24,3.5,4153,99,DevOps Basics,True,English,2025-05-24 14:13:11.696891
+170,Cloud Infrastructure,DevOps,Advanced,Khan Academy,38,4.9,31814,0,DevOps Basics,False,English,2025-05-30 14:13:11.696896
+171,ML Fundamentals,Machine Learning,Beginner,Skillshare,30,4.1,25511,49,None,False,English,2025-06-04 14:13:11.696901
+172,Supervised Learning,Machine Learning,Intermediate,Coursera,35,3.9,49709,29,Machine Learning Basics,True,English,2025-07-08 14:13:11.696906
+173,Unsupervised Learning,Machine Learning,Intermediate,Pluralsight,32,3.6,2546,29,Machine Learning Basics,False,English,2025-05-23 14:13:11.696910
+174,Deep Learning PyTorch,Machine Learning,Advanced,Khan Academy,45,3.6,14587,0,Machine Learning Basics,True,English,2025-04-20 14:13:11.696914
+175,Natural Language Processing,Machine Learning,Advanced,Udacity,40,4.3,49142,49,Machine Learning Basics,False,English,2024-08-05 14:13:11.696919
+176,Computer Vision,Machine Learning,Advanced,FreeCodeCamp,42,4.6,8475,49,Machine Learning Basics,False,English,2024-08-18 14:13:11.696925
+177,MLOps Implementation,Machine Learning,Advanced,Coursera,35,3.9,38033,0,Machine Learning Basics,False,English,2025-02-07 14:13:11.696929
+178,Reinforcement Learning,Machine Learning,Advanced,edX,48,3.8,27957,199,Machine Learning Basics,False,English,2025-06-12 14:13:11.696935
+179,Feature Engineering,Machine Learning,Intermediate,Udacity,25,4.1,30516,49,Machine Learning Basics,False,English,2025-04-03 14:13:11.696939
+180,Model Deployment,Machine Learning,Advanced,Skillshare,28,3.8,12626,29,Machine Learning Basics,True,English,2025-07-07 14:13:11.696943
+181,AWS Basics,Cloud Computing,Beginner,edX,25,3.8,25772,199,None,False,English,2025-07-10 14:13:11.696948
+182,Azure Fundamentals,Cloud Computing,Beginner,LinkedIn Learning,22,3.6,18366,199,None,True,English,2025-01-24 14:13:11.696953
+183,Google Cloud Platform,Cloud Computing,Beginner,Pluralsight,20,3.5,4127,199,None,False,English,2025-04-30 14:13:11.696958
+184,Cloud Security,Cloud Computing,Advanced,Codecademy,30,4.8,3268,199,Cloud Computing Basics,False,English,2024-08-27 14:13:11.696963
+185,Serverless Computing,Cloud Computing,Intermediate,Codecademy,28,3.6,46875,99,Cloud Computing Basics,False,English,2024-11-01 14:13:11.696967
+186,Cloud Migration,Cloud Computing,Advanced,FreeCodeCamp,35,3.8,47436,199,Cloud Computing Basics,True,English,2024-12-04 14:13:11.696972
+187,Multi-Cloud Strategy,Cloud Computing,Advanced,Coursera,32,4.4,27128,0,Cloud Computing Basics,False,English,2024-11-21 14:13:11.696977
+188,Cloud Cost Optimization,Cloud Computing,Intermediate,Udemy,18,3.5,28324,49,Cloud Computing Basics,True,English,2025-01-28 14:13:11.696981
+189,Cloud Architecture,Cloud Computing,Advanced,Udacity,40,3.8,46480,0,Cloud Computing Basics,True,English,2025-01-24 14:13:11.696986
+190,Cloud Native Development,Cloud Computing,Advanced,Skillshare,38,3.8,16149,99,Cloud Computing Basics,True,English,2025-04-04 14:13:11.696990
+191,Blockchain Basics,Blockchain,Beginner,LinkedIn Learning,18,4.5,10778,199,None,False,English,2024-09-03 14:13:11.696995
+192,Smart Contracts,Blockchain,Intermediate,Udacity,30,3.8,24859,0,Blockchain Basics,True,English,2024-12-18 14:13:11.697009
+193,Ethereum Development,Blockchain,Intermediate,FreeCodeCamp,35,4.9,39352,49,Blockchain Basics,True,English,2025-07-26 14:13:11.697014
+194,DeFi Protocols,Blockchain,Advanced,edX,40,3.6,36593,99,Blockchain Basics,True,English,2024-12-17 14:13:11.697019
+195,NFT Development,Blockchain,Intermediate,FreeCodeCamp,25,4.1,25585,0,Blockchain Basics,False,English,2024-08-19 14:13:11.697024
+196,Web3 Programming,Blockchain,Advanced,Udemy,42,4.0,39457,99,Blockchain Basics,False,English,2025-05-18 14:13:11.697029
+197,Cryptocurrency Trading,Blockchain,Beginner,Pluralsight,15,4.7,40550,0,None,True,English,2024-11-29 14:13:11.697033
+198,Blockchain Security,Blockchain,Advanced,Udemy,28,4.5,11249,99,Blockchain Basics,False,English,2024-09-21 14:13:11.697039
+199,Hyperledger Fabric,Blockchain,Advanced,LinkedIn Learning,35,5.0,42452,49,Blockchain Basics,False,English,2024-11-28 14:13:11.697043
+200,Solidity Programming,Blockchain,Intermediate,Khan Academy,32,4.2,7515,199,Blockchain Basics,True,English,2024-12-24 14:13:11.697048
