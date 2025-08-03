@@ -1,0 +1,51 @@
+UserID,Name,Interest,SkillLevel,Goal,LearningHoursPerWeek,PreferredDuration,Budget,Experience
+1,Swati142,Blockchain,Beginner,Smart Contract Developer,10,Medium (10-30hrs),Free,6
+2,Ravi271,Mobile Development,Intermediate,Build Android Apps,15,Medium (10-30hrs),Budget ($0-50),2
+3,Sanjay441,Blockchain,Intermediate,Web3 Developer,20,Medium (10-30hrs),Budget ($0-50),6
+4,Pooja535,Cybersecurity,Advanced,Penetration Testing Expert,19,Medium (10-30hrs),Premium ($50+),3
+5,Ravi715,UI/UX Design,Advanced,Master Figma & Adobe,18,Long (30+ hrs),Free,10
+6,Rajesh502,Cloud Computing,Beginner,Cloud Solutions Architect,24,Long (30+ hrs),Premium ($50+),9
+7,Meera955,Cloud Computing,Advanced,Cloud Solutions Architect,6,Short (< 10hrs),Premium ($50+),2
+8,Rajesh710,Backend Development,Advanced,Build Scalable APIs,14,Medium (10-30hrs),Budget ($0-50),8
+9,Usha320,Backend Development,Advanced,Become Full-Stack Developer,7,Medium (10-30hrs),Budget ($0-50),10
+10,Santosh796,Cybersecurity,Intermediate,Ethical Hacking Career,15,Medium (10-30hrs),Free,7
+11,Rajesh114,Mobile Development,Advanced,Cross-Platform Developer,22,Short (< 10hrs),Free,3
+12,Rekha420,Cloud Computing,Beginner,Azure Expert,12,Medium (10-30hrs),Premium ($50+),3
+13,Santosh761,Machine Learning,Beginner,Deep Learning Expert,15,Long (30+ hrs),Budget ($0-50),6
+14,Geeta921,UI/UX Design,Intermediate,Master Figma & Adobe,12,Short (< 10hrs),Budget ($0-50),3
+15,Vidya425,Cybersecurity,Advanced,Penetration Testing Expert,18,Long (30+ hrs),Free,6
+16,Sanjay201,Backend Development,Beginner,Build Scalable APIs,23,Short (< 10hrs),Premium ($50+),6
+17,Pooja402,UI/UX Design,Beginner,Land Design Job,7,Medium (10-30hrs),Budget ($0-50),1
+18,Swati240,Backend Development,Advanced,Master Node.js,13,Medium (10-30hrs),Premium ($50+),9
+19,Geeta980,DevOps,Advanced,Kubernetes Specialist,7,Long (30+ hrs),Premium ($50+),3
+20,Manoj304,Frontend Development,Beginner,Become React Developer,5,Short (< 10hrs),Free,8
+21,Geeta969,Cloud Computing,Beginner,AWS Certified,10,Medium (10-30hrs),Budget ($0-50),9
+22,Arjun227,Frontend Development,Beginner,Become React Developer,24,Medium (10-30hrs),Premium ($50+),8
+23,Manoj941,Mobile Development,Beginner,Cross-Platform Developer,12,Short (< 10hrs),Premium ($50+),8
+24,Geeta214,Cybersecurity,Intermediate,Ethical Hacking Career,13,Medium (10-30hrs),Budget ($0-50),10
+25,Rajesh956,Machine Learning,Advanced,MLOps Specialist,15,Medium (10-30hrs),Free,2
+26,Lakshmi304,Frontend Development,Intermediate,Become React Developer,20,Short (< 10hrs),Free,3
+27,Manoj733,Blockchain,Beginner,DeFi Expert,6,Short (< 10hrs),Budget ($0-50),2
+28,Usha999,Frontend Development,Intermediate,Master Vue.js,10,Long (30+ hrs),Budget ($0-50),2
+29,Sanjay570,Cloud Computing,Intermediate,Cloud Solutions Architect,18,Medium (10-30hrs),Budget ($0-50),4
+30,Arun253,Blockchain,Beginner,Web3 Developer,23,Medium (10-30hrs),Budget ($0-50),5
+31,Usha851,Data Science,Beginner,Data Visualization Expert,11,Medium (10-30hrs),Budget ($0-50),1
+32,Geeta419,Frontend Development,Advanced,Master Vue.js,23,Long (30+ hrs),Premium ($50+),4
+33,Sunita625,Backend Development,Intermediate,Master Node.js,8,Medium (10-30hrs),Premium ($50+),1
+34,Nisha997,Mobile Development,Intermediate,Cross-Platform Developer,24,Long (30+ hrs),Budget ($0-50),1
+35,Nisha970,Machine Learning,Beginner,Deep Learning Expert,12,Medium (10-30hrs),Free,5
+36,Meera232,Blockchain,Intermediate,Web3 Developer,10,Long (30+ hrs),Free,2
+37,Ravi273,Data Science,Advanced,Data Visualization Expert,20,Medium (10-30hrs),Free,3
+38,Swati753,Backend Development,Advanced,Become Full-Stack Developer,23,Short (< 10hrs),Free,2
+39,Arun722,UI/UX Design,Intermediate,Master Figma & Adobe,11,Medium (10-30hrs),Budget ($0-50),1
+40,Vikram275,Cloud Computing,Intermediate,Cloud Solutions Architect,20,Medium (10-30hrs),Budget ($0-50),8
+41,Priya893,DevOps,Advanced,CI/CD Pipeline Master,14,Short (< 10hrs),Budget ($0-50),1
+42,Santosh452,DevOps,Beginner,CI/CD Pipeline Master,6,Medium (10-30hrs),Budget ($0-50),6
+43,Vidya880,Mobile Development,Advanced,Build Android Apps,25,Medium (10-30hrs),Free,5
+44,Amit115,Machine Learning,Advanced,AI Engineer Role,15,Long (30+ hrs),Free,4
+45,Sanjay449,Frontend Development,Beginner,Build Interactive Websites,20,Short (< 10hrs),Budget ($0-50),1
+46,Deepak514,DevOps,Intermediate,CI/CD Pipeline Master,22,Medium (10-30hrs),Premium ($50+),7
+47,Amit222,Cybersecurity,Beginner,Ethical Hacking Career,21,Long (30+ hrs),Premium ($50+),0
+48,Lakshmi270,Cybersecurity,Intermediate,Penetration Testing Expert,14,Medium (10-30hrs),Premium ($50+),10
+49,Sanjay498,DevOps,Intermediate,Kubernetes Specialist,19,Short (< 10hrs),Free,4
+50,Arjun430,Frontend Development,Intermediate,Become React Developer,5,Long (30+ hrs),Free,3
