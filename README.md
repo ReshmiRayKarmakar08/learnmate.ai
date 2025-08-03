@@ -301,14 +301,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Author**: [Your Name]  
-**Email**: your.email@example.com  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [Your GitHub Profile]
+**Project Author**: Reshmi Ray Karmakar
+**Email**: raykarmakar8@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/reshmi-ray-karmakar-a9427a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+**GitHub**: https://github.com/ReshmiRayKarmakar08
 
-**Institution**: [Your College Name]  
-**Course**: BTech Computer Science Engineering (3rd Year)  
-**Internship**: IBM AI & Cloud Internship 2024
+**Institution**: Netaji Subhash Engineering College
+**Course**: BTech Information Technology (3rd Year)  
+**Internship**: IBM AI & Cloud Internship 2025
 
 ---
 
